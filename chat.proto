@@ -1,0 +1,17 @@
+package achat;
+
+message join
+{
+	required string channel = 1;
+	required string nick = 2;
+}
+
+message message
+{
+	required string text = 1;
+}
+
+message error
+{
+	required string text = 1;
+}
