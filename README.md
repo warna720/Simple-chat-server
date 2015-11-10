@@ -27,4 +27,5 @@ Possible code improvements:
     The use of command line arguments for choosing host and port.
 
     MUCH better error handling for sockets.
+    
     Handling duplicate nicknames.
