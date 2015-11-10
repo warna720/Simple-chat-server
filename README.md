@@ -15,7 +15,7 @@ Tillhör tjänsten "Innovativ utvecklare" (Dnr 16 321:3777/15).
 
 
 
-Drawbacks for the program:
+Disadvantages of the program:
 
     Not working on windows, because of select() function used.
     
