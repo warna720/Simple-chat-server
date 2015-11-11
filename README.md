@@ -17,7 +17,7 @@ Tillhör tjänsten "Innovativ utvecklare" (Dnr 16 321:3777/15).
 
 Disadvantages of the program:
 
-    Not working on windows, because of select() function used.
+    Not working on windows, because of how the select() function used.
     
     If user is typing and receiving a message, the received message and the non-complete message goes on the same line and the user will type the rest of the message on a new line. This could be solved by using better terminal libraries.
 
